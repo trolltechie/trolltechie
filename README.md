@@ -1,6 +1,7 @@
 ### Hi there 👋
 I’m System admin on a journey to become DevOps.
 
+[![My Skills](https://skillicons.dev/icons?i=linux,git,aws,python,docker)](https://skillicons.dev)
 <!--
 **trolltechie/trolltechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
